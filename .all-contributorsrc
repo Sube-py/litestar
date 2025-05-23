@@ -1973,6 +1973,24 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Jannchie",
+      "name": "Jianqi Pan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29743310?v=4",
+      "profile": "https://jannchie.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PokkaKiyo",
+      "name": "PokkaKiyo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31039465?v=4",
+      "profile": "https://github.com/PokkaKiyo",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
